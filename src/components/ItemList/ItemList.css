@@ -1,0 +1,15 @@
+.ItemList {
+  margin: 20px 100px;
+  padding: 10px 5px;
+  background: #555555;
+  border-radius: 10px;
+}
+
+.ItemList ul {
+  margin-bottom: 0;
+}
+
+.ItemList ul li{
+  list-style: none;
+  font-size: 20px;
+}
