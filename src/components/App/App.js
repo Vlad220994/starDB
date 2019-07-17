@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Header from '../Header/Header';
-import PlanetDetails from '../PlanetDetails/PlanetDetails';
+import RandomPlanet from '../RandomPlanet/RandomPlanet';
 import PersonDetails from '../PersonDetails/PersonDetails';
 import StarshipDetails from '../StarshipDetails/StarshipDetails';
 
@@ -11,7 +11,7 @@ const App = () => {
   return(
     <div className="App">
       <Header />
-      <PlanetDetails />
+      <RandomPlanet />
       <PersonDetails />
       <StarshipDetails />
     </div>
